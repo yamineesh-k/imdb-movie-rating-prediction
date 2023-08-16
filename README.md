@@ -1,6 +1,7 @@
 **Data Collection:**
 
 This project uses the data scraped from imdb website by https://github.com/sundeepblue/movie_rating_prediction/ . 
+Please refer the source for the data collection steps and last scraped time.
 
 The Source is  a CSV file 'movie_metadata.csv' (1.5MB) that has the below features.
 
