@@ -36,3 +36,7 @@ This project uses three Regressors - KNN, Random Forest Model and Gradient Boost
 **Evaluation**
 
 RMSE (Root Mean Square Error)  and R^2 were used as the Evaluation metrics for the regressors
+
+
+**Contact**
+Please contact for yamineesh@gmail.com for any questions regarding the project
